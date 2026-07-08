@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#170d0f"/>
+      <stop offset="45%" stop-color="#8d1118"/>
+      <stop offset="100%" stop-color="#0b0909"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(930 110) rotate(124) scale(410 430)">
+      <stop offset="0%" stop-color="#ff7f8a" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#ff7f8a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <rect x="62" y="62" width="1076" height="506" rx="34" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.16)"/>
+  <text x="104" y="156" fill="#ff919a" font-family="Arial, sans-serif" font-size="28" letter-spacing="6">2026 ANNUAL CONFERENCE</text>
+  <text x="104" y="262" fill="#fff3f0" font-family="Baskerville, serif" font-size="78" font-weight="700">第8回細胞農業会議</text>
+  <text x="104" y="348" fill="#fff3f0" font-family="Baskerville, serif" font-size="48">『未来の食』を現在のビジネスへ</text>
+  <text x="104" y="434" fill="rgba(255,243,240,0.78)" font-family="Arial, sans-serif" font-size="30">2026年7月10日(金) 13:00開演 / 東京大学農学部弥生講堂一条ホール</text>
+  <text x="104" y="494" fill="rgba(255,243,240,0.78)" font-family="Arial, sans-serif" font-size="26">Business × Academia × Policy</text>
+</svg>
